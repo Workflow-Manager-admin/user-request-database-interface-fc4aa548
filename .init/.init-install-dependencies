@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/user-request-database-interface-fc4aa548/frontend_app"
+}
